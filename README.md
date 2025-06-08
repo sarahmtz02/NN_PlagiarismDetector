@@ -1,7 +1,5 @@
 # Identificación de Plagio en Código usando Redes Neuronales
 
-_El análisis de cada modelo está entre los artículos escritos de cada uno en pdf más arriba._
-
 <p align="right">
     <img src="Fotos/tec_logo.png" alt="Logo Tec" width="260"/>
 </p>
@@ -9,6 +7,8 @@ _El análisis de cada modelo está entre los artículos escritos de cada uno en 
 ## 📝 Descripción
 
 Proyecto académico para la materia Desarrollo de aplicaciones avanzadas de ciencias computacionales. Este artículo y repositorio implementa un modelo de aprendizaje supervisado con TensorFlow Keras para la identificación de plagio en bloques de código en el lenguaje Java. Se ha desarrollado con la técnica de Aprendizaje Supervisado. Esta es una subárea del Machine Learning en la que el modelo se entrena para identificar patrones alimentándose de un conjunto de datos con etiquetas (en este caso, utilizando 2 etiquetas). Se busca que el sistema realice una tarea de identificación donde pueda señalar la copia de código, el porcentaje de similitud entre bloques de código y una decisión de si el código es plagiado o no.
+
+_El análisis de cada modelo está entre los artículos escritos de cada uno en pdf más arriba._
 
 ## 📘 Introducción
 
